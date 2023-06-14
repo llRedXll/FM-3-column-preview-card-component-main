@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/---)
-- Live Site URL: [https://llredxll.github.io/FM-advice-generator-app/](https://llredxll.github.io/---)
+- Live Site URL: [https://llredxll.github.io/](https://llredxll.github.io/---)
 
 ## Built with
 
