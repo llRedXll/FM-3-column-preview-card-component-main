@@ -11,8 +11,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -28,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/---)
-- Live Site URL: [https://llredxll.github.io/](https://llredxll.github.io/---)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/3-column-preview-card-component-NgDM-Dgs0T)
+- Live Site URL: [https://llredxll.github.io/](https://llredxll.github.io/FM-3-column-preview-card-component-main/)
 
 ## Built with
 
